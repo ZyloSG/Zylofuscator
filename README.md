@@ -4,3 +4,7 @@ Image of ZyloFuscatorGUI
 
 # Discord
 @26zylo
+
+# License
+This project is fully open-source, however:
+No one may modify the code to make it their own, or else a DMCA Takedown Notice may be sent.
