@@ -1,0 +1,15 @@
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\bin\Debug\Zylofuscatorgui.exe.config
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\bin\Debug\Zylofuscatorgui.exe
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\bin\Debug\Zylofuscatorgui.pdb
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\bin\Debug\Guna.UI2.dll
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\obj\Debug\Zylofuscatorgui.csproj.AssemblyReference.cache
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\obj\Debug\Zylofuscatorgui.Form1.resources
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\obj\Debug\Zylofuscatorgui.Properties.Resources.resources
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\obj\Debug\Zylofuscatorgui.csproj.GenerateResource.cache
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\obj\Debug\Zylofuscatorgui.csproj.CoreCompileInputs.cache
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\obj\Debug\Zylofusc.0C2FEC49.Up2Date
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\obj\Debug\Zylofuscatorgui.exe
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\obj\Debug\Zylofuscatorgui.pdb
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\bin\Debug\Guna.UI.dll
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\bin\Debug\dnlib.dll
+C:\Users\Zylo\source\repos\Zylofuscatorgui\Zylofuscatorgui\bin\Debug\dnlib.xml
