@@ -6,5 +6,5 @@ Image of ZyloFuscatorGUI
 @26zylo
 
 # License
-This project is fully open-source, however:
-No one may modify the code to make it their own, or else a DMCA Takedown Notice may be sent.
+This project is fully open-source and not licensed, however:
+You have permission modify the code, however if in a situation where you claim my work as your own - a DMCA Takedown Notice may be sent.
